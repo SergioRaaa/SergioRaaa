@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-labelledby="title desc">
+  <title id="title">Digital Objects signal</title>
+  <desc id="desc">A restrained animated system signal inspired by the portfolio interface.</desc>
+  <defs>
+    <linearGradient id="field" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#79f7ff" stop-opacity="0"/>
+      <stop offset="0.48" stop-color="#79f7ff" stop-opacity="0.72"/>
+      <stop offset="0.72" stop-color="#b6ff3b" stop-opacity="0.82"/>
+      <stop offset="1" stop-color="#b6ff3b" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="96" rx="20" fill="#070b10"/>
+  <path d="M24 48H1176" stroke="#253139" stroke-width="1" stroke-dasharray="2 8"/>
+  <path d="M80 48H1120" stroke="url(#field)" stroke-width="1.5" opacity="0.8"/>
+  <g fill="none" stroke="#79f7ff" opacity="0.35">
+    <circle cx="600" cy="48" r="18"/>
+    <circle cx="600" cy="48" r="30" stroke-dasharray="2 6"/>
+  </g>
+  <circle cx="600" cy="48" r="4" fill="#b6ff3b" filter="url(#glow)">
+    <animate attributeName="cx" values="120;1080;120" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="42" y="31" fill="#8da0aa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="2">FIELD / PROFILE</text>
+  <text x="1158" y="70" text-anchor="end" fill="#8da0aa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="2">SYSTEM ONLINE</text>
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      animate { display: none; }
+    }
+  </style>
+</svg>
