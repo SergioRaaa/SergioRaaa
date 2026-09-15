@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="./README.ru.md"><img src="./github-profile-assets/lang-ru.svg" width="190" alt="Abrir el perfil en ruso"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="./README.he.md"><img src="./github-profile-assets/lang-he.svg" width="156" alt="Abrir el perfil en hebreo"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/SergioRaaa"><img src="./github-profile-assets/lang-en.svg" width="188" alt="Abrir el perfil en inglés"></a>
+  <a href="./README.he.md"><img src="./github-profile-assets/lang-he.svg" width="190" alt="Abrir el perfil en hebreo"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/SergioRaaa"><img src="./github-profile-assets/lang-en.svg" width="190" alt="Abrir el perfil en inglés"></a>
 </p>
 
 # Sergey Ra
@@ -12,7 +12,8 @@ Desarrollador full-stack que crea productos web enfocados, sistemas de negocio y
 
 Convierto un problema de negocio en un producto funcional y publicado: defino el recorrido del usuario, establezco límites claros para el MVP, construyo el sistema y verifico escenarios reales. Mi trabajo abarca desde landing pages precisas hasta trackers por roles, calculadoras y asistentes de IA.
 
-<p align="center"><img src="./github-profile-assets/signal-field.svg" width="760" alt="Señal de sistema de Digital Objects"></p>
+<a id="signal-visual"></a>
+<p align="center"><a href="#signal-visual"><img src="./github-profile-assets/signal-field.svg" width="760" alt="Señal de sistema de Digital Objects"></a></p>
 
 ## Lo que construyo
 
@@ -50,7 +51,8 @@ Una administradora de salón con IA que combina consultas basadas en conocimient
 
 [Demo en vivo](https://free.sergio.moscow/chat-bots/)
 
-<p align="center"><img src="./github-profile-assets/system-orbit.svg" width="760" alt="Cuatro sistemas Digital Objects conectados"></p>
+<a id="systems-visual"></a>
+<p align="center"><a href="#systems-visual"><img src="./github-profile-assets/system-orbit.svg" width="760" alt="Cuatro sistemas Digital Objects conectados"></a></p>
 
 ## Cómo trabajo
 
@@ -60,7 +62,8 @@ Una administradora de salón con IA que combina consultas basadas en conocimient
 4. Verifico los escenarios principales, la adaptación a pantallas y los estados de error.
 5. Entrego el código y la documentación; el soporte se acuerda por separado.
 
-<p align="center"><img src="./github-profile-assets/delivery-pulse.svg" width="760" alt="Ruta de entrega verificada"></p>
+<a id="delivery-visual"></a>
+<p align="center"><a href="#delivery-visual"><img src="./github-profile-assets/delivery-pulse.svg" width="760" alt="Ruta de entrega verificada"></a></p>
 
 ## Stack principal
 

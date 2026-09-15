@@ -3,7 +3,7 @@
 <p align="center">
   <a href="./README.ru.md"><img src="./github-profile-assets/lang-ru.svg" width="190" alt="פתיחת הפרופיל ברוסית"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="./README.es.md"><img src="./github-profile-assets/lang-es.svg" width="190" alt="פתיחת הפרופיל בספרדית"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/SergioRaaa"><img src="./github-profile-assets/lang-en.svg" width="188" alt="פתיחת הפרופיל באנגלית"></a>
+  <a href="https://github.com/SergioRaaa"><img src="./github-profile-assets/lang-en.svg" width="190" alt="פתיחת הפרופיל באנגלית"></a>
 </p>
 
 <div dir="rtl" align="right">
@@ -16,7 +16,8 @@
 
 </div>
 
-<p align="center"><img src="./github-profile-assets/signal-field.svg" width="760" alt="אות המערכת של Digital Objects"></p>
+<a id="signal-visual"></a>
+<p align="center"><a href="#signal-visual"><img src="./github-profile-assets/signal-field.svg" width="760" alt="אות המערכת של Digital Objects"></a></p>
 
 <div dir="rtl" align="right">
 
@@ -62,7 +63,8 @@
 
 </div>
 
-<p align="center"><img src="./github-profile-assets/system-orbit.svg" width="760" alt="ארבע מערכות Digital Objects מחוברות"></p>
+<a id="systems-visual"></a>
+<p align="center"><a href="#systems-visual"><img src="./github-profile-assets/system-orbit.svg" width="760" alt="ארבע מערכות Digital Objects מחוברות"></a></p>
 
 <div dir="rtl" align="right">
 
@@ -76,7 +78,8 @@
 
 </div>
 
-<p align="center"><img src="./github-profile-assets/delivery-pulse.svg" width="760" alt="מסלול מסירה מאומת"></p>
+<a id="delivery-visual"></a>
+<p align="center"><a href="#delivery-visual"><img src="./github-profile-assets/delivery-pulse.svg" width="760" alt="מסלול מסירה מאומת"></a></p>
 
 <div dir="rtl" align="right">
 

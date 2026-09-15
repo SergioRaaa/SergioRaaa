@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="./README.ru.md"><img src="./github-profile-assets/lang-ru.svg" width="190" alt="Open the Russian profile"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="./README.he.md"><img src="./github-profile-assets/lang-he.svg" width="156" alt="Open the Hebrew profile"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="./README.he.md"><img src="./github-profile-assets/lang-he.svg" width="190" alt="Open the Hebrew profile"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="./README.es.md"><img src="./github-profile-assets/lang-es.svg" width="190" alt="Open the Spanish profile"></a>
 </p>
 
@@ -12,9 +12,8 @@ Full-stack developer building focused web products, business systems, and AI-pow
 
 I turn a business problem into a working, published product: define the user flow, set clear MVP boundaries, build the system, and verify its real scenarios. My work ranges from precise landing pages to role-based trackers, calculators, and AI assistants.
 
-<p align="center">
-  <img src="./github-profile-assets/signal-field.svg" width="760" alt="Digital Objects system signal">
-</p>
+<a id="signal-visual"></a>
+<p align="center"><a href="#signal-visual"><img src="./github-profile-assets/signal-field.svg" width="760" alt="Digital Objects system signal"></a></p>
 
 ## What I build
 
@@ -56,9 +55,8 @@ An AI salon administrator that combines a grounded consultation flow, service se
 
 [Live demo](https://free.sergio.moscow/chat-bots/)
 
-<p align="center">
-  <img src="./github-profile-assets/system-orbit.svg" width="760" alt="Four connected Digital Objects systems">
-</p>
+<a id="systems-visual"></a>
+<p align="center"><a href="#systems-visual"><img src="./github-profile-assets/system-orbit.svg" width="760" alt="Four connected Digital Objects systems"></a></p>
 
 ## How I work
 
@@ -68,9 +66,8 @@ An AI salon administrator that combines a grounded consultation flow, service se
 4. Verify core scenarios, responsive behavior, and failure states.
 5. Hand over code and documentation; agree on support separately.
 
-<p align="center">
-  <img src="./github-profile-assets/delivery-pulse.svg" width="760" alt="Verified delivery path">
-</p>
+<a id="delivery-visual"></a>
+<p align="center"><a href="#delivery-visual"><img src="./github-profile-assets/delivery-pulse.svg" width="760" alt="Verified delivery path"></a></p>
 
 ## Core stack
 

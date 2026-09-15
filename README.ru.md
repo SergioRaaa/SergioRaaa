@@ -1,9 +1,9 @@
 <p align="right"><code>SYSTEM ONLINE · PROFILE / 2026</code></p>
 
 <p align="center">
-  <a href="./README.he.md"><img src="./github-profile-assets/lang-he.svg" width="156" alt="Открыть профиль на иврите"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="./README.he.md"><img src="./github-profile-assets/lang-he.svg" width="190" alt="Открыть профиль на иврите"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="./README.es.md"><img src="./github-profile-assets/lang-es.svg" width="190" alt="Открыть профиль на испанском"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/SergioRaaa"><img src="./github-profile-assets/lang-en.svg" width="188" alt="Открыть профиль на английском"></a>
+  <a href="https://github.com/SergioRaaa"><img src="./github-profile-assets/lang-en.svg" width="190" alt="Открыть профиль на английском"></a>
 </p>
 
 # Sergey Ra
@@ -12,7 +12,8 @@ Fullstack-разработчик, создающий сфокусированн�
 
 Превращаю бизнес-задачу в работающий опубликованный продукт: определяю пользовательский сценарий, фиксирую понятные границы MVP, собираю систему и проверяю её на реальных сценариях. Мои работы — от точных лендингов до ролевых трекеров, калькуляторов и ИИ-ассистентов.
 
-<p align="center"><img src="./github-profile-assets/signal-field.svg" width="760" alt="Системный сигнал Digital Objects"></p>
+<a id="signal-visual"></a>
+<p align="center"><a href="#signal-visual"><img src="./github-profile-assets/signal-field.svg" width="760" alt="Системный сигнал Digital Objects"></a></p>
 
 ## Что я создаю
 
@@ -50,7 +51,8 @@ Fullstack-разработчик, создающий сфокусированн�
 
 [Демо](https://free.sergio.moscow/chat-bots/)
 
-<p align="center"><img src="./github-profile-assets/system-orbit.svg" width="760" alt="Четыре связанные системы Digital Objects"></p>
+<a id="systems-visual"></a>
+<p align="center"><a href="#systems-visual"><img src="./github-profile-assets/system-orbit.svg" width="760" alt="Четыре связанные системы Digital Objects"></a></p>
 
 ## Как я работаю
 
@@ -60,7 +62,8 @@ Fullstack-разработчик, создающий сфокусированн�
 4. Проверяю основные сценарии, адаптивность и состояния ошибок.
 5. Передаю код и документацию; поддержку согласовываю отдельно.
 
-<p align="center"><img src="./github-profile-assets/delivery-pulse.svg" width="760" alt="Проверенный путь передачи проекта"></p>
+<a id="delivery-visual"></a>
+<p align="center"><a href="#delivery-visual"><img src="./github-profile-assets/delivery-pulse.svg" width="760" alt="Проверенный путь передачи проекта"></a></p>
 
 ## Основной стек
 
