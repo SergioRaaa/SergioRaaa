@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://github.com/SergioRaaa"><img src="./github-profile-assets/lang-en.svg" width="154" alt="Abrir el perfil en inglés"></a>&nbsp;
   <a href="./README.he.md"><img src="./github-profile-assets/lang-he.svg" width="126" alt="Abrir el perfil en hebreo"></a>&nbsp;
-  <img src="./github-profile-assets/lang-es.svg" width="154" alt="Español — idioma actual">&nbsp;
   <a href="./README.ru.md"><img src="./github-profile-assets/lang-ru.svg" width="146" alt="Abrir el perfil en ruso"></a>
 </p>
 

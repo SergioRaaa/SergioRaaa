@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://github.com/SergioRaaa"><img src="./github-profile-assets/lang-en.svg" width="154" alt="פתיחת הפרופיל באנגלית"></a>&nbsp;
-  <img src="./github-profile-assets/lang-he.svg" width="126" alt="עברית — השפה הנוכחית">&nbsp;
   <a href="./README.es.md"><img src="./github-profile-assets/lang-es.svg" width="154" alt="פתיחת הפרופיל בספרדית"></a>&nbsp;
   <a href="./README.ru.md"><img src="./github-profile-assets/lang-ru.svg" width="146" alt="פתיחת הפרופיל ברוסית"></a>
 </p>
