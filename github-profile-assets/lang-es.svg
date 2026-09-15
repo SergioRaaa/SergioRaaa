@@ -1,6 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="190" height="48" viewBox="0 0 190 48" role="img" aria-label="Español">
-  <rect width="190" height="48" rx="13" fill="#663f34"/>
-  <rect x="1" y="1" width="188" height="46" rx="12" fill="none" stroke="#ae806f" stroke-width="2" stroke-opacity=".78"/>
-  <circle cx="22" cy="24" r="4.5" fill="#e4b84e"/>
-  <text x="109" y="29" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="800" letter-spacing="4">E S P A Ñ O L</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="54" viewBox="0 0 190 54" role="img" aria-label="Español">
+  <rect width="190" height="54" rx="12" fill="#080d11"/>
+  <rect x=".75" y=".75" width="188.5" height="52.5" rx="11.25" fill="none" stroke="#344249" stroke-width="1.5" stroke-opacity=".9"/>
+  <path d="M16 18H174" stroke="#243138" stroke-width="1" stroke-dasharray="2 6"/>
+  <circle cx="18" cy="34" r="3.5" fill="#65777f"/>
+  <text x="16" y="12" fill="#596970" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="7" font-weight="700" letter-spacing="1.1">ESPAÑOL</text>
+  <text x="105" y="39" text-anchor="middle" fill="#aab7bd" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="3.4">E S P A Ñ O L</text>
 </svg>
