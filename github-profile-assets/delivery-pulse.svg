@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="title desc">
+  <title id="title">Digital Objects delivery pulse</title>
+  <desc id="desc">Five connected delivery stages with a restrained moving pulse.</desc>
+  <defs><filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect width="1200" height="112" rx="20" fill="#070b10"/>
+  <path d="M122 58H1078" stroke="#253139" stroke-width="2"/>
+  <g fill="#0d151b" stroke="#79f7ff" stroke-opacity=".55">
+    <circle cx="150" cy="58" r="9"/><circle cx="375" cy="58" r="9"/><circle cx="600" cy="58" r="9"/><circle cx="825" cy="58" r="9"/><circle cx="1050" cy="58" r="9"/>
+  </g>
+  <g fill="#8da0aa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" letter-spacing="1.5" text-anchor="middle">
+    <text x="150" y="87">CLARIFY</text><text x="375" y="87">STRUCTURE</text><text x="600" y="87">BUILD</text><text x="825" y="87">VERIFY</text><text x="1050" y="87">DELIVER</text>
+  </g>
+  <circle cx="150" cy="58" r="5" fill="#b6ff3b" filter="url(#glow)">
+    <animate attributeName="cx" values="150;375;600;825;1050;150" dur="10s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="opacity" values="1;.55;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="42" y="27" fill="#8da0aa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="2">DELIVERY PATH / VERIFIED</text>
+  <style>@media (prefers-reduced-motion: reduce){animate{display:none}}</style>
+</svg>

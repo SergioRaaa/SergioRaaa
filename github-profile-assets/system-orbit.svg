@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="154" viewBox="0 0 1200 154" role="img" aria-labelledby="title desc">
+  <title id="title">Digital Objects system orbit</title>
+  <desc id="desc">A restrained animated map connecting four product systems.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#79f7ff" stop-opacity=".15"/>
+      <stop offset=".5" stop-color="#79f7ff" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#b6ff3b" stop-opacity=".18"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="154" rx="20" fill="#070b10"/>
+  <g stroke="#253139" stroke-width="1" stroke-dasharray="2 9" opacity=".75">
+    <path d="M40 42H1160M40 112H1160"/>
+  </g>
+  <path d="M128 77H1072" stroke="url(#line)" stroke-width="1.5"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="2" fill="#8da0aa" text-anchor="middle">
+    <g transform="translate(220 77)"><circle r="21" fill="#0d151b" stroke="#79f7ff" stroke-opacity=".55"/><circle r="4" fill="#79f7ff"/><text y="43">FLOWPILOT</text></g>
+    <g transform="translate(470 77)"><circle r="21" fill="#0d151b" stroke="#79f7ff" stroke-opacity=".55"/><circle r="4" fill="#79f7ff"/><text y="43">PULSE TEAM</text></g>
+    <g transform="translate(730 77)"><circle r="21" fill="#0d151b" stroke="#b6ff3b" stroke-opacity=".55"/><circle r="4" fill="#b6ff3b"/><text y="43">TEMPO</text></g>
+    <g transform="translate(980 77)"><circle r="21" fill="#0d151b" stroke="#b6ff3b" stroke-opacity=".55"/><circle r="4" fill="#b6ff3b"/><text y="43">LUMI</text></g>
+  </g>
+  <circle cx="220" cy="77" r="5" fill="#b6ff3b" filter="url(#glow)">
+    <animate attributeName="cx" values="220;470;730;980;220" dur="14s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.27;.53;.8;1" keySplines=".4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1"/>
+  </circle>
+  <text x="42" y="27" fill="#8da0aa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="2">OBJECT NETWORK / 04</text>
+  <style>@media (prefers-reduced-motion: reduce){animate{display:none}}</style>
+</svg>

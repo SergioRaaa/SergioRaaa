@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="146" height="38" viewBox="0 0 146 38" role="img" aria-label="Русский">
+  <rect width="146" height="38" rx="10" fill="#315f9b"/>
+  <rect x="0.5" y="0.5" width="145" height="37" rx="9.5" fill="none" stroke="#a9d2ff" stroke-opacity=".58"/>
+  <circle cx="18" cy="19" r="3" fill="#b6ff3b"/>
+  <text x="84" y="23" text-anchor="middle" fill="#fff" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700" letter-spacing="3">Р У С С К И Й</text>
+</svg>
