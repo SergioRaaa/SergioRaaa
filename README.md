@@ -1,9 +1,9 @@
 <p align="right"><code>SYSTEM ONLINE · PROFILE / 2026</code></p>
 
 <p align="center">
-  <a href="./README.he.md"><img src="./github-profile-assets/lang-he.svg" width="126" alt="Open the Hebrew profile"></a>&nbsp;
-  <a href="./README.es.md"><img src="./github-profile-assets/lang-es.svg" width="154" alt="Open the Spanish profile"></a>&nbsp;
-  <a href="./README.ru.md"><img src="./github-profile-assets/lang-ru.svg" width="146" alt="Open the Russian profile"></a>
+  <a href="./README.ru.md"><img src="./github-profile-assets/lang-ru.svg" width="190" alt="Open the Russian profile"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="./README.he.md"><img src="./github-profile-assets/lang-he.svg" width="156" alt="Open the Hebrew profile"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="./README.es.md"><img src="./github-profile-assets/lang-es.svg" width="190" alt="Open the Spanish profile"></a>
 </p>
 
 # Sergey Ra
