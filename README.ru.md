@@ -23,7 +23,7 @@ Fullstack-разработчик, создающий сфокусированн�
 - ИИ-ассистентов с базой знаний и бизнес-правилами;
 - надёжную передачу: публикацию, документацию и проверку сценариев.
 
-<p align="center"><a href="https://free.sergio.moscow/"><img src="./github-profile-assets/portfolio-light.png" width="760" alt="Первый экран портфолио Digital Objects в светлой теме"></a></p>
+<p align="center"><a href="https://free.sergio.moscow/"><img src="./github-profile-assets/portfolio-dark.png" width="760" alt="Первый экран портфолио Digital Objects в тёмной теме"></a></p>
 
 ## Избранные системы
 
@@ -73,6 +73,6 @@ Fullstack-разработчик, создающий сфокусированн�
 
 ---
 
-<p align="center"><a href="https://free.sergio.moscow/"><img src="./github-profile-assets/portfolio-dark.png" width="760" alt="Первый экран портфолио Digital Objects в тёмной теме"></a></p>
+<p align="center"><a href="https://free.sergio.moscow/"><img src="./github-profile-assets/portfolio-light.png" width="760" alt="Первый экран портфолио Digital Objects в светлой теме"></a></p>
 
 <p align="center"><sub>Самостоятельные веб-объекты · интерфейсы / системы / автоматизация</sub></p>

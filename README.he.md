@@ -31,7 +31,7 @@
 
 </div>
 
-<p align="center"><a href="https://free.sergio.moscow/"><img src="./github-profile-assets/portfolio-light.png" width="760" alt="המסך הראשון של תיק העבודות בעיצוב בהיר"></a></p>
+<p align="center"><a href="https://free.sergio.moscow/"><img src="./github-profile-assets/portfolio-dark.png" width="760" alt="המסך הראשון של תיק העבודות בעיצוב כהה"></a></p>
 
 <div dir="rtl" align="right">
 
@@ -93,6 +93,6 @@
 
 ---
 
-<p align="center"><a href="https://free.sergio.moscow/"><img src="./github-profile-assets/portfolio-dark.png" width="760" alt="המסך הראשון של תיק העבודות בעיצוב כהה"></a></p>
+<p align="center"><a href="https://free.sergio.moscow/"><img src="./github-profile-assets/portfolio-light.png" width="760" alt="המסך הראשון של תיק העבודות בעיצוב בהיר"></a></p>
 
 <p align="center"><sub>אובייקטים דיגיטליים עצמאיים · ממשקים / מערכות / אוטומציה</sub></p>

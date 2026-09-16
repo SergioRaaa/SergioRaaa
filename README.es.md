@@ -23,7 +23,7 @@ Convierto un problema de negocio en un producto funcional y publicado: defino el
 - asistentes de IA basados en una base de conocimiento y reglas de negocio;
 - entrega fiable: despliegue, documentación y verificación de escenarios.
 
-<p align="center"><a href="https://free.sergio.moscow/"><img src="./github-profile-assets/portfolio-light.png" width="760" alt="Primera pantalla del portfolio Digital Objects en tema claro"></a></p>
+<p align="center"><a href="https://free.sergio.moscow/"><img src="./github-profile-assets/portfolio-dark.png" width="760" alt="Primera pantalla del portfolio Digital Objects en tema oscuro"></a></p>
 
 ## Sistemas seleccionados
 
@@ -73,6 +73,6 @@ Una administradora de salón con IA que combina consultas basadas en conocimient
 
 ---
 
-<p align="center"><a href="https://free.sergio.moscow/"><img src="./github-profile-assets/portfolio-dark.png" width="760" alt="Primera pantalla del portfolio Digital Objects en tema oscuro"></a></p>
+<p align="center"><a href="https://free.sergio.moscow/"><img src="./github-profile-assets/portfolio-light.png" width="760" alt="Primera pantalla del portfolio Digital Objects en tema claro"></a></p>
 
 <p align="center"><sub>Objetos web independientes · interfaces / sistemas / automatización</sub></p>

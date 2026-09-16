@@ -25,7 +25,7 @@ I turn a business problem into a working, published product: define the user flo
 
 <p align="center">
   <a href="https://free.sergio.moscow/">
-    <img src="./github-profile-assets/portfolio-light.png" width="760" alt="First screen of the Digital Objects portfolio in the light theme">
+    <img src="./github-profile-assets/portfolio-dark.png" width="760" alt="First screen of the Digital Objects portfolio in the dark theme">
   </a>
 </p>
 
@@ -82,7 +82,7 @@ An AI salon administrator that combines a grounded consultation flow, service se
 
 <p align="center">
   <a href="https://free.sergio.moscow/">
-    <img src="./github-profile-assets/portfolio-dark.png" width="760" alt="First screen of the Digital Objects portfolio in the dark theme">
+    <img src="./github-profile-assets/portfolio-light.png" width="760" alt="First screen of the Digital Objects portfolio in the light theme">
   </a>
 </p>
 
